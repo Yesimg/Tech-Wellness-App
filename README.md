@@ -1,6 +1,6 @@
 # Tech-Wellness-App
 
-![Imagen](![Screenshot from 2022-10-27 17-36-54](https://user-images.githubusercontent.com/70659176/198334948-ccea0071-39df-4b1f-bc84-d55a63963604.png)
+(![Screenshot from 2022-10-27 17-36-54](https://user-images.githubusercontent.com/70659176/198334948-ccea0071-39df-4b1f-bc84-d55a63963604.png)
 
 
 
